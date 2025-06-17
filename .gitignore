@@ -35,3 +35,7 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+
+#Files created by Terraform for PrivateIP
+private_ips.txt
+.DS_Store 
