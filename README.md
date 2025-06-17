@@ -71,7 +71,7 @@ Let's get started!
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/terraform-ec2-web-s3.git
+git clone https://github.com/tej6667/terraform-aws-vpc-ec2-webserver.git
 cd terraform-ec2-web-s3
 
 # 2. Initialize Terraform
@@ -120,7 +120,7 @@ terraform destroy
 
 ## 💬 Questions?
 
-Drop a comment below or check out the [GitHub repo](https://github.com/your-username/terraform-ec2-web-s3) for more details!
+Drop a comment below or check out the [GitHub repo](https://github.com/tej6667/terraform-aws-vpc-ec2-webserver.git) for more details!
 
 ---
 
